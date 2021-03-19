@@ -2,3 +2,7 @@ title: "Remote theme example"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
+
+title: hey guys !
+
+heading_anchors: true
