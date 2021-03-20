@@ -6,3 +6,5 @@ search_enabled: true
 title: hey guys !
 
 heading_anchors: true
+
+theme: jekyll-theme-merlot
